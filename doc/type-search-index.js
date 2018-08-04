@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"InstagramDownloader","l":"FromInstagram"}]

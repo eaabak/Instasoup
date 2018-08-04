@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"InstagramDownloader","c":"FromInstagram","l":"downloadImage(String, String)","url":"downloadImage-java.lang.String-java.lang.String-"},{"p":"InstagramDownloader","c":"FromInstagram","l":"downloadVideo(String, String)","url":"downloadVideo-java.lang.String-java.lang.String-"},{"p":"InstagramDownloader","c":"FromInstagram","l":"FromInstagram()"}]
