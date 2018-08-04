@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Alan4747/Instasoup.png?branch=master)](https://travis-ci.org/Alan4747/Instasoup)
+[![Build Status](https://travis-ci.org/Alan4747/Instasoup.svg?branch=master)](https://travis-ci.org/Alan4747/Instasoup)
 
 # Instasoup
 Instasoup is an API-free tool to fetch image/video data from Instagram. To effectively use this library, you will need [JSoup](https://jsoup.org/) library installed to the project.
